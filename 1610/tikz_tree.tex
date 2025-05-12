@@ -1,0 +1,47 @@
+\begin{tikzpicture}[grow=right, sloped]
+\node[bag] {$n = 7$}
+    child {
+        node[bag] {$n = 4$}        
+            child {
+                node[end, label=right:
+                    {\minibox{ $n = 2$, \ $\bY = 1.1$ \\
+                    data: $\{(0.1, 0.3), 0.9\}, \{(0.2, 0.5), 1.3\}$}}] {}
+                edge from parent
+                node[above] {}
+                node[below]  {$X_2 \leq 0.7$}
+            }
+            child {
+                node[end, label=right:
+                    {\minibox{ $n = 2$, \ $\bY = -0.1$ \\
+                    data: $\{(0.1, 0.9), 0.1\}, \{(0.2, 0.8), -0.3\}$}}] {}
+                edge from parent
+                node[above] {}
+                node[below]  {$X_2 > 0.7$}
+            }
+            edge from parent 
+            node[above] {}
+            node[below]  {$X_1 \leq 0.3$}
+    }
+    child {
+        node[bag] {$n = 3$}        
+        child {
+                node[end, label=right:
+                    {\minibox{ $n = 1$, \ $\bY = -0.7$ \\
+                    data: $\{(0.5, 0.4), -0.7\}$}}] {}
+                edge from parent
+                node[above] {}
+                node[below]  {$X_1 \leq 0.8$}
+            }
+            child {
+                node[end, label=right:
+                    {\minibox{ $n = 2$, \ $\bY = 0.2$ \\
+                    data: $\{(0.9, 0.4), -0.1\}, \{(1.0, 0.2), 0.3\}$}}] {}
+                edge from parent
+                node[above] {}
+                node[below]  {$X_1 > 0.8$}
+            }
+        edge from parent         
+            node[above] {}
+            node[below]  {$X_1 > 0.3$}
+    };
+\end{tikzpicture}

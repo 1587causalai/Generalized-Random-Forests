@@ -1,0 +1,1020 @@
+\begin{thebibliography}{84}
+% BibTex style file: imsart-nameyear.bst, 2013-01-28
+% Default style options (sort=1,type=nameyear).
+% Used options (sort=1,type=nameyear).
+
+\bibitem[\protect\citeauthoryear{Abadie}{2003}]{abadie2003semiparametric}
+\begin{barticle}[author]
+\bauthor{\bsnm{Abadie},~\bfnm{Alberto}\binits{A.}}
+(\byear{2003}).
+\btitle{Semiparametric instrumental variable estimation of treatment response
+  models}.
+\bjournal{Journal of Econometrics}
+\bvolume{113}
+\bpages{231--263}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Amit and Geman}{1997}]{amit1997shape}
+\begin{barticle}[author]
+\bauthor{\bsnm{Amit},~\bfnm{Yali}\binits{Y.}} \AND
+  \bauthor{\bsnm{Geman},~\bfnm{Donald}\binits{D.}}
+(\byear{1997}).
+\btitle{Shape quantization and recognition with randomized trees}.
+\bjournal{Neural Computation}
+\bvolume{9}
+\bpages{1545--1588}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Andrews}{1993}]{andrews1993tests}
+\begin{barticle}[author]
+\bauthor{\bsnm{Andrews},~\bfnm{Donald~WK}\binits{D.~W.}}
+(\byear{1993}).
+\btitle{Tests for parameter instability and structural change with unknown
+  change point}.
+\bjournal{Econometrica}
+\bpages{821--856}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Angrist}{1990}]{angrist1990lifetime}
+\begin{barticle}[author]
+\bauthor{\bsnm{Angrist},~\bfnm{Joshua~D}\binits{J.~D.}}
+(\byear{1990}).
+\btitle{Lifetime earnings and the {V}ietnam era draft lottery: Evidence from
+  social security administrative records}.
+\bjournal{AER}
+\bpages{313--336}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Angrist and Evans}{1998}]{angrist1998children}
+\begin{barticle}[author]
+\bauthor{\bsnm{Angrist},~\bfnm{Joshua~D}\binits{J.~D.}} \AND
+  \bauthor{\bsnm{Evans},~\bfnm{William~N}\binits{W.~N.}}
+(\byear{1998}).
+\btitle{Children and Their Parents' Labor Supply: Evidence from Exogenous
+  Variation in Family Size}.
+\bjournal{AER}
+\bpages{450--477}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Arlot and Genuer}{2014}]{arlot2014analysis}
+\begin{barticle}[author]
+\bauthor{\bsnm{Arlot},~\bfnm{Sylvain}\binits{S.}} \AND
+  \bauthor{\bsnm{Genuer},~\bfnm{Robin}\binits{R.}}
+(\byear{2014}).
+\btitle{Analysis of purely random forests bias}.
+\bjournal{arXiv preprint arXiv:1407.3939}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Athey and Imbens}{2016}]{athey2016recursive}
+\begin{barticle}[author]
+\bauthor{\bsnm{Athey},~\bfnm{Susan}\binits{S.}} \AND
+  \bauthor{\bsnm{Imbens},~\bfnm{Guido}\binits{G.}}
+(\byear{2016}).
+\btitle{Recursive partitioning for heterogeneous causal effects}.
+\bjournal{Proceedings of the National Academy of Sciences}
+\bvolume{113}
+\bpages{7353--7360}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Belloni et~al.}{2012}]{belloni2012sparse}
+\begin{barticle}[author]
+\bauthor{\bsnm{Belloni},~\bfnm{Alexandre}\binits{A.}},
+  \bauthor{\bsnm{Chen},~\bfnm{Daniel}\binits{D.}},
+  \bauthor{\bsnm{Chernozhukov},~\bfnm{Victor}\binits{V.}} \AND
+  \bauthor{\bsnm{Hansen},~\bfnm{Christian}\binits{C.}}
+(\byear{2012}).
+\btitle{Sparse models and methods for optimal instruments with an application
+  to eminent domain}.
+\bjournal{Econometrica}
+\bvolume{80}
+\bpages{2369--2429}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Beygelzimer and
+  Langford}{2009}]{beygelzimer2009offset}
+\begin{binproceedings}[author]
+\bauthor{\bsnm{Beygelzimer},~\bfnm{Alina}\binits{A.}} \AND
+  \bauthor{\bsnm{Langford},~\bfnm{John}\binits{J.}}
+(\byear{2009}).
+\btitle{The offset tree for learning with partial labels}.
+In \bbooktitle{Proceedings of KDD}
+\bpages{129--138}.
+\bpublisher{ACM}.
+\end{binproceedings}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Beygelzimer et~al.}{2013}]{beygelzimer2013fnn}
+\begin{bmanual}[author]
+\bauthor{\bsnm{Beygelzimer},~\bfnm{Alina}\binits{A.}},
+  \bauthor{\bsnm{Kakadet},~\bfnm{Sham}\binits{S.}},
+  \bauthor{\bsnm{Langford},~\bfnm{John}\binits{J.}},
+  \bauthor{\bsnm{Arya},~\bfnm{Sunil}\binits{S.}},
+  \bauthor{\bsnm{Mount},~\bfnm{David}\binits{D.}} \AND
+  \bauthor{\bsnm{Li},~\bfnm{Shengqiao}\binits{S.}}
+(\byear{2013}).
+\btitle{{FNN}: Fast Nearest Neighbor Search Algorithms and Applications}.
+\end{bmanual}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Biau}{2012}]{biau2012analysis}
+\begin{barticle}[author]
+\bauthor{\bsnm{Biau},~\bfnm{G{\'e}rard}\binits{G.}}
+(\byear{2012}).
+\btitle{Analysis of a random forests model}.
+\bjournal{JMLR}
+\bvolume{13}
+\bpages{1063--1095}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Biau, Devroye and
+  Lugosi}{2008}]{biau2008consistency}
+\begin{barticle}[author]
+\bauthor{\bsnm{Biau},~\bfnm{G{\'e}rard}\binits{G.}},
+  \bauthor{\bsnm{Devroye},~\bfnm{Luc}\binits{L.}} \AND
+  \bauthor{\bsnm{Lugosi},~\bfnm{G{\'a}bor}\binits{G.}}
+(\byear{2008}).
+\btitle{Consistency of random forests and other averaging classifiers}.
+\bjournal{JMLR}
+\bvolume{9}
+\bpages{2015--2033}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Biau and Devroye}{2010}]{biau2010layered}
+\begin{barticle}[author]
+\bauthor{\bsnm{Biau},~\bfnm{G{\'e}rard}\binits{G.}} \AND
+  \bauthor{\bsnm{Devroye},~\bfnm{Luc}\binits{L.}}
+(\byear{2010}).
+\btitle{On the layered nearest neighbour estimate, the bagged nearest neighbour
+  estimate and the random forest method in regression and classification}.
+\bjournal{JMVA}
+\bvolume{101}
+\bpages{2499--2518}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Biau and Scornet}{2016}]{biau2016random}
+\begin{barticle}[author]
+\bauthor{\bsnm{Biau},~\bfnm{G{\'e}rard}\binits{G.}} \AND
+  \bauthor{\bsnm{Scornet},~\bfnm{Erwan}\binits{E.}}
+(\byear{2016}).
+\btitle{A random forest guided tour}.
+\bjournal{Test}
+\bvolume{25}
+\bpages{197--227}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Breiman}{1996}]{breiman1996bagging}
+\begin{barticle}[author]
+\bauthor{\bsnm{Breiman},~\bfnm{Leo}\binits{L.}}
+(\byear{1996}).
+\btitle{Bagging predictors}.
+\bjournal{Machine Learning}
+\bvolume{24}
+\bpages{123--140}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Breiman}{2001}]{breiman2001random}
+\begin{barticle}[author]
+\bauthor{\bsnm{Breiman},~\bfnm{Leo}\binits{L.}}
+(\byear{2001}).
+\btitle{Random forests}.
+\bjournal{Machine Learning}
+\bvolume{45}
+\bpages{5--32}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Breiman
+  et~al.}{1984}]{breiman1984classification}
+\begin{bbook}[author]
+\bauthor{\bsnm{Breiman},~\bfnm{Leo}\binits{L.}},
+  \bauthor{\bsnm{Friedman},~\bfnm{Jerome}\binits{J.}},
+  \bauthor{\bsnm{Stone},~\bfnm{Charles~J}\binits{C.~J.}} \AND
+  \bauthor{\bsnm{Olshen},~\bfnm{Richard~A}\binits{R.~A.}}
+(\byear{1984}).
+\btitle{Classification and Regression Trees}.
+\bpublisher{CRC press}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{B{\"u}hlmann and
+  Yu}{2002}]{buhlmann2002analyzing}
+\begin{barticle}[author]
+\bauthor{\bsnm{B{\"u}hlmann},~\bfnm{Peter}\binits{P.}} \AND
+  \bauthor{\bsnm{Yu},~\bfnm{Bin}\binits{B.}}
+(\byear{2002}).
+\btitle{Analyzing bagging}.
+\bjournal{Ann.~Statist.}
+\bvolume{30}
+\bpages{927--961}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Chernozhukov
+  et~al.}{2016}]{chernozhukov2016double}
+\begin{barticle}[author]
+\bauthor{\bsnm{Chernozhukov},~\bfnm{Victor}\binits{V.}},
+  \bauthor{\bsnm{Chetverikov},~\bfnm{Denis}\binits{D.}},
+  \bauthor{\bsnm{Demirer},~\bfnm{Mert}\binits{M.}},
+  \bauthor{\bsnm{Duflo},~\bfnm{Esther}\binits{E.}},
+  \bauthor{\bsnm{Hansen},~\bfnm{Christian}\binits{C.}} \AND
+  \bauthor{\bsnm{Newey},~\bfnm{Whitney}\binits{W.}}
+(\byear{2016}).
+\btitle{Double Machine Learning for Treatment and Causal Parameters}.
+\bjournal{arXiv preprint arXiv:1608.00060}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Chipman, George and
+  McCulloch}{2010}]{chipman2010bart}
+\begin{barticle}[author]
+\bauthor{\bsnm{Chipman},~\bfnm{Hugh~A}\binits{H.~A.}},
+  \bauthor{\bsnm{George},~\bfnm{Edward~I}\binits{E.~I.}} \AND
+  \bauthor{\bsnm{McCulloch},~\bfnm{Robert~E}\binits{R.~E.}}
+(\byear{2010}).
+\btitle{{BART}: {B}ayesian additive regression trees}.
+\bjournal{The Annals of Applied Statistics}
+\bvolume{4}
+\bpages{266--298}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Darolles
+  et~al.}{2011}]{darolles2011nonparametric}
+\begin{barticle}[author]
+\bauthor{\bsnm{Darolles},~\bfnm{Serge}\binits{S.}},
+  \bauthor{\bsnm{Fan},~\bfnm{Yanqin}\binits{Y.}},
+  \bauthor{\bsnm{Florens},~\bfnm{Jean-Pierre}\binits{J.-P.}} \AND
+  \bauthor{\bsnm{Renault},~\bfnm{Eric}\binits{E.}}
+(\byear{2011}).
+\btitle{Nonparametric instrumental regression}.
+\bjournal{Econometrica}
+\bvolume{79}
+\bpages{1541--1565}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Denil, Matheson and
+  De~Freitas}{2014}]{denil2014narrowing}
+\begin{binproceedings}[author]
+\bauthor{\bsnm{Denil},~\bfnm{Misha}\binits{M.}},
+  \bauthor{\bsnm{Matheson},~\bfnm{David}\binits{D.}} \AND
+  \bauthor{\bsnm{De~Freitas},~\bfnm{Nando}\binits{N.}}
+(\byear{2014}).
+\btitle{Narrowing the Gap: Random Forests In Theory and In Practice}.
+In \bbooktitle{Proceedings of ICML}
+\bpages{665--673}.
+\end{binproceedings}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Dietterich}{2000}]{dietterich2000experimental}
+\begin{barticle}[author]
+\bauthor{\bsnm{Dietterich},~\bfnm{Thomas~G}\binits{T.~G.}}
+(\byear{2000}).
+\btitle{An experimental comparison of three methods for constructing ensembles
+  of decision trees: Bagging, boosting, and randomization}.
+\bjournal{Machine Learning}
+\bvolume{40}
+\bpages{139--157}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron}{1982}]{efron1982jackknife}
+\begin{bbook}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}}
+(\byear{1982}).
+\btitle{The jackknife, the bootstrap and other resampling plans}.
+\bpublisher{SIAM}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron and Stein}{1981}]{efron1981jackknife}
+\begin{barticle}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}} \AND
+  \bauthor{\bsnm{Stein},~\bfnm{Charles}\binits{C.}}
+(\byear{1981}).
+\btitle{The jackknife estimate of variance}.
+\bjournal{Ann.~Statist.}
+\bvolume{9}
+\bpages{586--596}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Fan, Farmen and Gijbels}{1998}]{fan1998local}
+\begin{barticle}[author]
+\bauthor{\bsnm{Fan},~\bfnm{Jianqing}\binits{J.}},
+  \bauthor{\bsnm{Farmen},~\bfnm{Mark}\binits{M.}} \AND
+  \bauthor{\bsnm{Gijbels},~\bfnm{Irene}\binits{I.}}
+(\byear{1998}).
+\btitle{Local maximum likelihood estimation and inference}.
+\bjournal{JRSS-b}
+\bvolume{60}
+\bpages{591--608}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Fan and Gijbels}{1996}]{fan1996local}
+\begin{bbook}[author]
+\bauthor{\bsnm{Fan},~\bfnm{Jianqing}\binits{J.}} \AND
+  \bauthor{\bsnm{Gijbels},~\bfnm{Irene}\binits{I.}}
+(\byear{1996}).
+\btitle{Local Polynomial Modelling and its Applications}
+\bvolume{66}.
+\bpublisher{CRC Press}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Friedman}{2001}]{friedman2001greedy}
+\begin{barticle}[author]
+\bauthor{\bsnm{Friedman},~\bfnm{Jerome~H}\binits{J.~H.}}
+(\byear{2001}).
+\btitle{Greedy function approximation: A gradient boosting machine}.
+\bjournal{Ann.~Statist.}
+\bpages{1189--1232}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Gelman et~al.}{2014}]{gelman2014bayesian}
+\begin{bbook}[author]
+\bauthor{\bsnm{Gelman},~\bfnm{Andrew}\binits{A.}},
+  \bauthor{\bsnm{Carlin},~\bfnm{John~B}\binits{J.~B.}},
+  \bauthor{\bsnm{Stern},~\bfnm{Hal~S}\binits{H.~S.}} \AND
+  \bauthor{\bsnm{Rubin},~\bfnm{Donald~B}\binits{D.~B.}}
+(\byear{2014}).
+\btitle{Bayesian {D}ata {A}nalysis}
+\bvolume{2}.
+\bpublisher{Chapman \& Hall/CRC Boca Raton, FL, USA}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Geurts, Ernst and
+  Wehenkel}{2006}]{geurts2006extremely}
+\begin{barticle}[author]
+\bauthor{\bsnm{Geurts},~\bfnm{Pierre}\binits{P.}},
+  \bauthor{\bsnm{Ernst},~\bfnm{Damien}\binits{D.}} \AND
+  \bauthor{\bsnm{Wehenkel},~\bfnm{Louis}\binits{L.}}
+(\byear{2006}).
+\btitle{Extremely randomized trees}.
+\bjournal{Machine Learning}
+\bvolume{63}
+\bpages{3--42}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Gordon and Olshen}{1985}]{gordon1985tree}
+\begin{barticle}[author]
+\bauthor{\bsnm{Gordon},~\bfnm{Louis}\binits{L.}} \AND
+  \bauthor{\bsnm{Olshen},~\bfnm{Richard~A}\binits{R.~A.}}
+(\byear{1985}).
+\btitle{Tree-structured survival analysis}.
+\bjournal{Cancer Treatment Reports}
+\bvolume{69}
+\bpages{1065--1069}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hampel}{1974}]{hampel1974influence}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hampel},~\bfnm{Frank~R}\binits{F.~R.}}
+(\byear{1974}).
+\btitle{The influence curve and its role in robust estimation}.
+\bjournal{JASA}
+\bvolume{69}
+\bpages{383--393}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hansen}{1992}]{hansen1992testing}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hansen},~\bfnm{Bruce~E}\binits{B.~E.}}
+(\byear{1992}).
+\btitle{Testing for parameter instability in linear models}.
+\bjournal{Journal of Policy Modeling}
+\bvolume{14}
+\bpages{517--533}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hartford
+  et~al.}{2017}]{hartford2016counterfactual}
+\begin{binproceedings}[author]
+\bauthor{\bsnm{Hartford},~\bfnm{Jason}\binits{J.}},
+  \bauthor{\bsnm{Lewis},~\bfnm{Greg}\binits{G.}},
+  \bauthor{\bsnm{Leyton-Brown},~\bfnm{Kevin}\binits{K.}} \AND
+  \bauthor{\bsnm{Taddy},~\bfnm{Matt}\binits{M.}}
+(\byear{2017}).
+\btitle{Deep {IV}: A Flexible Approach for Counterfactual Prediction}.
+In \bbooktitle{Proceedings of ICML}
+\bpages{1414--1423}.
+\end{binproceedings}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hastie, Tibshirani and
+  Friedman}{2009}]{hastie2009elements}
+\begin{bbook}[author]
+\bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}},
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}} \AND
+  \bauthor{\bsnm{Friedman},~\bfnm{Jerome}\binits{J.}}
+(\byear{2009}).
+\btitle{The Elements of Statistical Learning}.
+\bpublisher{New York: Springer}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hill}{2011}]{hill2011bayesian}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hill},~\bfnm{Jennifer~L}\binits{J.~L.}}
+(\byear{2011}).
+\btitle{Bayesian nonparametric modeling for causal inference}.
+\bjournal{Journal of Computational and Graphical Statistics}
+\bvolume{20}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hjort and Koning}{2002}]{hjort2002tests}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hjort},~\bfnm{Nils~Lid}\binits{N.~L.}} \AND
+  \bauthor{\bsnm{Koning},~\bfnm{Alexander}\binits{A.}}
+(\byear{2002}).
+\btitle{Tests for constancy of model parameters over time}.
+\bjournal{Journal of Nonparametric Statistics}
+\bvolume{14}
+\bpages{113--132}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Ho}{1998}]{ho1998random}
+\begin{barticle}[author]
+\bauthor{\bsnm{Ho},~\bfnm{Tin~Kam}\binits{T.~K.}}
+(\byear{1998}).
+\btitle{The random subspace method for constructing decision forests}.
+\bjournal{IEEE transactions on pattern analysis and machine intelligence}
+\bvolume{20}
+\bpages{832--844}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hoeffding}{1948}]{hoeffding1948class}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hoeffding},~\bfnm{Wassily}\binits{W.}}
+(\byear{1948}).
+\btitle{A class of statistics with asymptotically normal distribution}.
+\bjournal{The Annals of Mathematical Statistics}
+\bvolume{19}
+\bpages{293--325}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hoeffding}{1963}]{hoeffding1963probability}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hoeffding},~\bfnm{Wassily}\binits{W.}}
+(\byear{1963}).
+\btitle{Probability inequalities for sums of bounded random variables}.
+\bjournal{JASA}
+\bvolume{58}
+\bpages{13--30}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Honor{\'e} and
+  Kyriazidou}{2000}]{honore2000panel}
+\begin{barticle}[author]
+\bauthor{\bsnm{Honor{\'e}},~\bfnm{Bo~E}\binits{B.~E.}} \AND
+  \bauthor{\bsnm{Kyriazidou},~\bfnm{Ekaterini}\binits{E.}}
+(\byear{2000}).
+\btitle{Panel data discrete choice models with lagged dependent variables}.
+\bjournal{Econometrica}
+\bvolume{68}
+\bpages{839--874}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hothorn et~al.}{2004}]{hothorn2004bagging}
+\begin{barticle}[author]
+\bauthor{\bsnm{Hothorn},~\bfnm{Torsten}\binits{T.}},
+  \bauthor{\bsnm{Lausen},~\bfnm{Berthold}\binits{B.}},
+  \bauthor{\bsnm{Benner},~\bfnm{Axel}\binits{A.}} \AND
+  \bauthor{\bsnm{Radespiel-Tr{\"o}ger},~\bfnm{Martin}\binits{M.}}
+(\byear{2004}).
+\btitle{Bagging survival trees}.
+\bjournal{Statistics in Medicine}
+\bvolume{23}
+\bpages{77--91}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Imbens and
+  Angrist}{1994}]{imbens1994identification}
+\begin{barticle}[author]
+\bauthor{\bsnm{Imbens},~\bfnm{Guido~W}\binits{G.~W.}} \AND
+  \bauthor{\bsnm{Angrist},~\bfnm{Joshua~D}\binits{J.~D.}}
+(\byear{1994}).
+\btitle{Identification and estimation of local average treatment effects}.
+\bjournal{Econometrica}
+\bvolume{62}
+\bpages{467--475}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Ishwaran and
+  Kogalur}{2010}]{ishwaran2010consistency}
+\begin{barticle}[author]
+\bauthor{\bsnm{Ishwaran},~\bfnm{Hemant}\binits{H.}} \AND
+  \bauthor{\bsnm{Kogalur},~\bfnm{Udaya~B}\binits{U.~B.}}
+(\byear{2010}).
+\btitle{Consistency of random survival forests}.
+\bjournal{Statistics \& Probability Letters}
+\bvolume{80}
+\bpages{1056--1064}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Kallus}{2016}]{kallus2016learning}
+\begin{barticle}[author]
+\bauthor{\bsnm{Kallus},~\bfnm{Nathan}\binits{N.}}
+(\byear{2016}).
+\btitle{Learning to Personalize from Observational Data}.
+\bjournal{arXiv preprint arXiv:1608.08925}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Kleiber and
+  Zeileis}{2008}]{kleiber2008applied}
+\begin{bbook}[author]
+\bauthor{\bsnm{Kleiber},~\bfnm{Christian}\binits{C.}} \AND
+  \bauthor{\bsnm{Zeileis},~\bfnm{Achim}\binits{A.}}
+(\byear{2008}).
+\btitle{Applied econometrics with R}.
+\bpublisher{Springer Science \& Business Media}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{LeBlanc and
+  Crowley}{1992}]{leblanc1992relative}
+\begin{barticle}[author]
+\bauthor{\bsnm{LeBlanc},~\bfnm{Michael}\binits{M.}} \AND
+  \bauthor{\bsnm{Crowley},~\bfnm{John}\binits{J.}}
+(\byear{1992}).
+\btitle{Relative risk trees for censored survival data}.
+\bjournal{Biometrics}
+\bpages{411--425}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Lewbel}{2007}]{lewbel2007local}
+\begin{barticle}[author]
+\bauthor{\bsnm{Lewbel},~\bfnm{Arthur}\binits{A.}}
+(\byear{2007}).
+\btitle{A local generalized method of moments estimator}.
+\bjournal{Economics Letters}
+\bvolume{94}
+\bpages{124--128}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Lin and Jeon}{2006}]{lin2006random}
+\begin{barticle}[author]
+\bauthor{\bsnm{Lin},~\bfnm{Yi}\binits{Y.}} \AND
+  \bauthor{\bsnm{Jeon},~\bfnm{Yongho}\binits{Y.}}
+(\byear{2006}).
+\btitle{Random forests and adaptive nearest neighbors}.
+\bjournal{JASA}
+\bvolume{101}
+\bpages{578--590}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Loader}{1999}]{loader1999local}
+\begin{bbook}[author]
+\bauthor{\bsnm{Loader},~\bfnm{Clive}\binits{C.}}
+(\byear{1999}).
+\btitle{Local Regression and Likelihood}.
+\bpublisher{Springer}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Mallows}{1973}]{mallows1973some}
+\begin{barticle}[author]
+\bauthor{\bsnm{Mallows},~\bfnm{Colin~L}\binits{C.~L.}}
+(\byear{1973}).
+\btitle{Some comments on {Cp}}.
+\bjournal{Technometrics}
+\bvolume{15}
+\bpages{661--675}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Meinshausen}{2006}]{meinshausen2006quantile}
+\begin{barticle}[author]
+\bauthor{\bsnm{Meinshausen},~\bfnm{Nicolai}\binits{N.}}
+(\byear{2006}).
+\btitle{Quantile regression forests}.
+\bjournal{JMLR}
+\bvolume{7}
+\bpages{983--999}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Mentch and
+  Hooker}{2016}]{mentch2016quantifying}
+\begin{barticle}[author]
+\bauthor{\bsnm{Mentch},~\bfnm{Lucas}\binits{L.}} \AND
+  \bauthor{\bsnm{Hooker},~\bfnm{Giles}\binits{G.}}
+(\byear{2016}).
+\btitle{Quantifying uncertainty in random forests via confidence intervals and
+  hypothesis tests}.
+\bjournal{JMLR}
+\bvolume{17}
+\bpages{1--41}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Molinaro, Dudoit and Van~der
+  Laan}{2004}]{molinaro2004tree}
+\begin{barticle}[author]
+\bauthor{\bsnm{Molinaro},~\bfnm{Annette~M}\binits{A.~M.}},
+  \bauthor{\bsnm{Dudoit},~\bfnm{Sandrine}\binits{S.}} \AND
+  \bauthor{\bparticle{Van~der} \bsnm{Laan},~\bfnm{Mark~J}\binits{M.~J.}}
+(\byear{2004}).
+\btitle{Tree-based multivariate regression and density estimation with
+  right-censored data}.
+\bjournal{JMVA}
+\bvolume{90}
+\bpages{154--177}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Newey}{1994a}]{newey1994kernel}
+\begin{barticle}[author]
+\bauthor{\bsnm{Newey},~\bfnm{Whitney~K}\binits{W.~K.}}
+(\byear{1994}a).
+\btitle{Kernel estimation of partial means and a general variance estimator}.
+\bjournal{Econometric Theory}
+\bvolume{10}
+\bpages{1--21}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Newey}{1994b}]{newey1994asymptotic}
+\begin{barticle}[author]
+\bauthor{\bsnm{Newey},~\bfnm{Whitney~K}\binits{W.~K.}}
+(\byear{1994}b).
+\btitle{The asymptotic variance of semiparametric estimators}.
+\bjournal{Econometrica}
+\bvolume{62}
+\bpages{1349--1382}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Newey and
+  Powell}{2003}]{newey2003instrumental}
+\begin{barticle}[author]
+\bauthor{\bsnm{Newey},~\bfnm{Whitney~K}\binits{W.~K.}} \AND
+  \bauthor{\bsnm{Powell},~\bfnm{James~L}\binits{J.~L.}}
+(\byear{2003}).
+\btitle{Instrumental variable estimation of nonparametric models}.
+\bjournal{Econometrica}
+\bvolume{71}
+\bpages{1565--1578}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Neyman}{1979}]{neyman1979c}
+\begin{barticle}[author]
+\bauthor{\bsnm{Neyman},~\bfnm{Jerzy}\binits{J.}}
+(\byear{1979}).
+\btitle{C($\alpha$) tests and their use}.
+\bjournal{Sankhy{\=a}, Series A}
+\bpages{1--21}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Nyblom}{1989}]{nyblom1989testing}
+\begin{barticle}[author]
+\bauthor{\bsnm{Nyblom},~\bfnm{Jukka}\binits{J.}}
+(\byear{1989}).
+\btitle{Testing for the constancy of parameters over time}.
+\bjournal{JASA}
+\bvolume{84}
+\bpages{223--230}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Ploberger and
+  Kr{\"a}mer}{1992}]{ploberger1992cusum}
+\begin{barticle}[author]
+\bauthor{\bsnm{Ploberger},~\bfnm{Werner}\binits{W.}} \AND
+  \bauthor{\bsnm{Kr{\"a}mer},~\bfnm{Walter}\binits{W.}}
+(\byear{1992}).
+\btitle{The {CUSUM} test with {OLS} residuals}.
+\bjournal{Econometrica}
+\bpages{271--285}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Poterba, Venti and
+  Wise}{1996}]{poterba1996retirement}
+\begin{barticle}[author]
+\bauthor{\bsnm{Poterba},~\bfnm{James~M}\binits{J.~M.}},
+  \bauthor{\bsnm{Venti},~\bfnm{Steven~F}\binits{S.~F.}} \AND
+  \bauthor{\bsnm{Wise},~\bfnm{David~A}\binits{D.~A.}}
+(\byear{1996}).
+\btitle{How retirement saving programs increase saving}.
+\bjournal{JEP}
+\bvolume{10}
+\bpages{91--112}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Robins and Ritov}{1997}]{robins1997toward}
+\begin{barticle}[author]
+\bauthor{\bsnm{Robins},~\bfnm{James~M}\binits{J.~M.}} \AND
+  \bauthor{\bsnm{Ritov},~\bfnm{Yaacov}\binits{Y.}}
+(\byear{1997}).
+\btitle{Toward a curse of dimensionality appropriate (CODA) asymptotic theory
+  for semi-parametric models.}
+\bjournal{Statistics in Medicine}
+\bvolume{16}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Robinson}{1988}]{robinson1988root}
+\begin{barticle}[author]
+\bauthor{\bsnm{Robinson},~\bfnm{Peter~M}\binits{P.~M.}}
+(\byear{1988}).
+\btitle{Root-N-consistent semiparametric regression}.
+\bjournal{Econometrica}
+\bpages{931--954}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Rosenbaum and
+  Rubin}{1983}]{rosenbaum1983central}
+\begin{barticle}[author]
+\bauthor{\bsnm{Rosenbaum},~\bfnm{Paul~R}\binits{P.~R.}} \AND
+  \bauthor{\bsnm{Rubin},~\bfnm{Donald~B}\binits{D.~B.}}
+(\byear{1983}).
+\btitle{The central role of the propensity score in observational studies for
+  causal effects}.
+\bjournal{Biometrika}
+\bvolume{70}
+\bpages{41--55}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Schick}{1986}]{schick1986asymptotically}
+\begin{barticle}[author]
+\bauthor{\bsnm{Schick},~\bfnm{Anton}\binits{A.}}
+(\byear{1986}).
+\btitle{On asymptotically efficient estimation in semiparametric models}.
+\bjournal{Ann.~Statist.}
+\bpages{1139--1151}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Scornet, Biau and
+  Vert}{2015}]{scornet2015consistency}
+\begin{barticle}[author]
+\bauthor{\bsnm{Scornet},~\bfnm{Erwan}\binits{E.}},
+  \bauthor{\bsnm{Biau},~\bfnm{G\'erard}\binits{G.}} \AND
+  \bauthor{\bsnm{Vert},~\bfnm{Jean-Philippe}\binits{J.-P.}}
+(\byear{2015}).
+\btitle{Consistency of random forests}.
+\bjournal{Ann.~Statist.}
+\bvolume{43}
+\bpages{1716--1741}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Sexton and Laake}{2009}]{sexton2009standard}
+\begin{barticle}[author]
+\bauthor{\bsnm{Sexton},~\bfnm{Joseph}\binits{J.}} \AND
+  \bauthor{\bsnm{Laake},~\bfnm{Petter}\binits{P.}}
+(\byear{2009}).
+\btitle{Standard errors for bagged and random forest estimators}.
+\bjournal{Computational Statistics \& Data Analysis}
+\bvolume{53}
+\bpages{801--811}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Staniswalis}{1989}]{staniswalis1989kernel}
+\begin{barticle}[author]
+\bauthor{\bsnm{Staniswalis},~\bfnm{Joan~G}\binits{J.~G.}}
+(\byear{1989}).
+\btitle{The kernel estimate of a regression function in likelihood-based
+  models}.
+\bjournal{JASA}
+\bvolume{84}
+\bpages{276--283}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Stone}{1977}]{stone1977consistent}
+\begin{barticle}[author]
+\bauthor{\bsnm{Stone},~\bfnm{Charles~J}\binits{C.~J.}}
+(\byear{1977}).
+\btitle{Consistent nonparametric regression}.
+\bjournal{Ann.~Statist.}
+\bpages{595--620}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Su, Murtazashvili and
+  Ullah}{2013}]{su2013local}
+\begin{barticle}[author]
+\bauthor{\bsnm{Su},~\bfnm{Liangjun}\binits{L.}},
+  \bauthor{\bsnm{Murtazashvili},~\bfnm{Irina}\binits{I.}} \AND
+  \bauthor{\bsnm{Ullah},~\bfnm{Aman}\binits{A.}}
+(\byear{2013}).
+\btitle{Local linear GMM estimation of functional coefficient IV models with an
+  application to estimating the rate of return to schooling}.
+\bjournal{Journal of Business \& Economic Statistics}
+\bvolume{31}
+\bpages{184--207}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Su et~al.}{2009}]{su2009subgroup}
+\begin{barticle}[author]
+\bauthor{\bsnm{Su},~\bfnm{Xiaogang}\binits{X.}},
+  \bauthor{\bsnm{Tsai},~\bfnm{Chih-Ling}\binits{C.-L.}},
+  \bauthor{\bsnm{Wang},~\bfnm{Hansheng}\binits{H.}},
+  \bauthor{\bsnm{Nickerson},~\bfnm{David~M}\binits{D.~M.}} \AND
+  \bauthor{\bsnm{Li},~\bfnm{Bogong}\binits{B.}}
+(\byear{2009}).
+\btitle{Subgroup analysis via recursive partitioning}.
+\bjournal{JMLR}
+\bvolume{10}
+\bpages{141--158}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Tibshirani and
+  Hastie}{1987}]{tibshirani1987local}
+\begin{barticle}[author]
+\bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}} \AND
+  \bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}}
+(\byear{1987}).
+\btitle{Local likelihood estimation}.
+\bjournal{JASA}
+\bvolume{82}
+\bpages{559--567}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Van~der Vaart}{2000}]{van2000asymptotic}
+\begin{bbook}[author]
+\bauthor{\bparticle{Van~der} \bsnm{Vaart},~\bfnm{Aad~W}\binits{A.~W.}}
+(\byear{2000}).
+\btitle{Asymptotic Statistics}.
+\bpublisher{Cambridge University Press}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{van~der Vaart and Wellner}{1996}]{van1996weak}
+\begin{bbook}[author]
+\bauthor{\bparticle{van~der} \bsnm{Vaart},~\bfnm{Aad~W}\binits{A.~W.}} \AND
+  \bauthor{\bsnm{Wellner},~\bfnm{Jon~A}\binits{J.~A.}}
+(\byear{1996}).
+\btitle{Weak Convergence and Empirical Processes}.
+\bpublisher{Springer}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Varian}{2014}]{varian2014big}
+\begin{barticle}[author]
+\bauthor{\bsnm{Varian},~\bfnm{Hal~R}\binits{H.~R.}}
+(\byear{2014}).
+\btitle{Big data: New tricks for econometrics}.
+\bjournal{JEP}
+\bvolume{28}
+\bpages{3--27}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wager and Athey}{2018}]{wager2015estimation}
+\begin{barticle}[author]
+\bauthor{\bsnm{Wager},~\bfnm{Stefan}\binits{S.}} \AND
+  \bauthor{\bsnm{Athey},~\bfnm{Susan}\binits{S.}}
+(\byear{2018}).
+\btitle{Estimation and inference of heterogeneous treatment effects using
+  random forests}.
+\bjournal{JASA}
+\bvolume{just-accepted}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wager, Hastie and
+  Efron}{2014}]{wager2014confidence}
+\begin{barticle}[author]
+\bauthor{\bsnm{Wager},~\bfnm{Stefan}\binits{S.}},
+  \bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}} \AND
+  \bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}}
+(\byear{2014}).
+\btitle{Confidence Intervals for Random Forests: The Jackknife and the
+  Infinitesimal Jackknife}.
+\bjournal{JMLR}
+\bvolume{15}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wager and Walther}{2015}]{wager2015uniform}
+\begin{barticle}[author]
+\bauthor{\bsnm{Wager},~\bfnm{Stefan}\binits{S.}} \AND
+  \bauthor{\bsnm{Walther},~\bfnm{Guenther}\binits{G.}}
+(\byear{2015}).
+\btitle{Adaptive Concentration of Regression Trees, with Application to Random
+  Forests}.
+\bjournal{arXiv preprint arXiv:1503.06388}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wooldridge}{2010}]{wooldridge2010econometric}
+\begin{bbook}[author]
+\bauthor{\bsnm{Wooldridge},~\bfnm{Jeffrey~M}\binits{J.~M.}}
+(\byear{2010}).
+\btitle{Econometric analysis of cross section and panel data}.
+\bpublisher{MIT press}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wright and Ziegler}{2017}]{wright2015ranger}
+\begin{barticle}[author]
+\bauthor{\bsnm{Wright},~\bfnm{Marvin~N}\binits{M.~N.}} \AND
+  \bauthor{\bsnm{Ziegler},~\bfnm{Andreas}\binits{A.}}
+(\byear{2017}).
+\btitle{{ranger}: A fast implementation of random forests for high dimensional
+  data in {C}++ and {R}}.
+\bjournal{Journal of Statistical Software}
+\bvolume{77}
+\bpages{1--17}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Zeileis}{2005}]{zeileis2005unified}
+\begin{barticle}[author]
+\bauthor{\bsnm{Zeileis},~\bfnm{Achim}\binits{A.}}
+(\byear{2005}).
+\btitle{A unified approach to structural change tests based on {ML} scores, {F}
+  statistics, and {OLS} residuals}.
+\bjournal{Econometric Reviews}
+\bvolume{24}
+\bpages{445--466}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Zeileis and
+  Hornik}{2007}]{zeileis2007generalized}
+\begin{barticle}[author]
+\bauthor{\bsnm{Zeileis},~\bfnm{Achim}\binits{A.}} \AND
+  \bauthor{\bsnm{Hornik},~\bfnm{Kurt}\binits{K.}}
+(\byear{2007}).
+\btitle{Generalized {M}-fluctuation tests for parameter instability}.
+\bjournal{Statistica Neerlandica}
+\bvolume{61}
+\bpages{488--508}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Zeileis, Hothorn and
+  Hornik}{2008}]{zeileis2008model}
+\begin{barticle}[author]
+\bauthor{\bsnm{Zeileis},~\bfnm{Achim}\binits{A.}},
+  \bauthor{\bsnm{Hothorn},~\bfnm{Torsten}\binits{T.}} \AND
+  \bauthor{\bsnm{Hornik},~\bfnm{Kurt}\binits{K.}}
+(\byear{2008}).
+\btitle{Model-based recursive partitioning}.
+\bjournal{Journal of Computational and Graphical Statistics}
+\bvolume{17}
+\bpages{492--514}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Zhu, Zeng and
+  Kosorok}{2015}]{zhu2015reinforcement}
+\begin{barticle}[author]
+\bauthor{\bsnm{Zhu},~\bfnm{Ruoqing}\binits{R.}},
+  \bauthor{\bsnm{Zeng},~\bfnm{Donglin}\binits{D.}} \AND
+  \bauthor{\bsnm{Kosorok},~\bfnm{Michael~R}\binits{M.~R.}}
+(\byear{2015}).
+\btitle{Reinforcement learning trees}.
+\bjournal{JASA}
+\bvolume{110}
+\bpages{1770--1784}.
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
